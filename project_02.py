@@ -1,4 +1,4 @@
-#Random Number game
+#Random Number Guesses game
 import random
 n = random.randint(1,100)
 a = 0
