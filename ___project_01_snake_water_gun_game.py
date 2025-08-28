@@ -31,3 +31,6 @@ else:
 
     else:
         print("something went wrong")
+
+
+print("Thanks !!!")
